@@ -38,6 +38,7 @@
  background-image: linear-gradient(#ffffff,#F2F2F2);
  background-image: -moz-linear-gradient(#ffffff,#F2F2F2);
  background-image: -webkit-linear-gradient(#ffffff,#F2F2F2);
+ height: 35px;	
 }
 .comments-tab img { height: 20px;  width: auto;  margin: 0px 5px 0px 5px; vertical-align: sub;}
 
